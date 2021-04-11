@@ -1,6 +1,5 @@
 library(igraph)
 library(pracma)
-setwd('C:/Users/Debolina/Desktop/icml2021/erwk')
 source('functions.R')
 
 #### Example Run on Iris ####
